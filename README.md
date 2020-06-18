@@ -5,6 +5,8 @@ Over the next four years (2020-2023), the research project "Training the Archive
 
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Logo_TTA.jpg" alt="Logos" width="453" height="75">
 
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/logo_partners.jpg" alt="Logos" width="243" height="75">   <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/logo_funding.jpg" alt="Logos" width="193" height="75">
+
 ### Prototype: 
 Clustering of images from a museum collection to identify interesting links.  Subsequently, 
 the human being is to be brought back into the loop, in which networks for image recognition are 
