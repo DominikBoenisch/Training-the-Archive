@@ -1,6 +1,8 @@
 ## Training the Archive
 A research project based at the German [Ludwig Forum for International Art Aachen](http://ludwigforum.de/) and the [Hartware MedienKunstVerein (HMKV)](https://hmkv.de/) in Dortmund, Germany that combines artificial intelligence and museum collection data through machine learning and object recognition. The project is funded by the Digital Culture Programme of the German Federal Cultural Foundation. 
 
+<a href="http://stackoverflow.com" target="_blank">Go</a>
+
 Over the next four years (2020-2023), the research project "Training the Archive" will explore the possibilities and risks of AI in relation to the automated structuring of data to support curatorial practice and artistic production. Connected to this is the research question of whether AI can learn research processes so that patterns, connections and associations become recognizable that are not apparent to humans in this form. Together with international artists and curators, a procedure is to be developed that will help to make digital archives - such as the collection of the Ludwig Forum Aachen - accessible in a new way.
 
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/logo_partners.jpg" alt="Logos" width="240" height="75">  <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/logo_funding.jpg" alt="Logos" width="193" height="75">
