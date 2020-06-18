@@ -10,7 +10,7 @@ Clustering of images from a museum collection to identify interesting links.  Su
 the human being is to be brought back into the loop, in which networks for image recognition are 
 retrained with the knowledge of curators, for example, in order to make the clusters more dynamic and personalized.
 
-The first prototype was developed within the context of the so-called [*AI school*](https://www.link-niedersachsen.de/ki_schule) in the [LINK](https://www.link-niedersachsen.de/) programme of the Lower Saxony Foundation in cooperation with the tutors Dr. rer. nat. Jan Sölter and Dr. rer. nat. Thomas Rost.
+The first prototype was developed within the context of the so-called [*AI school*](https://www.link-niedersachsen.de/ki_schule) in the [LINK](https://www.link-niedersachsen.de/) programme of the Lower Saxony Foundation in cooperation with the tutors [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter) and Dr. rer. nat. Thomas Rost.
 
 ### Step by step guide:
 1. Scraping of data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
