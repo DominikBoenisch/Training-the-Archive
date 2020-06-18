@@ -13,6 +13,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
 ### Step by step guide:
 1. Scraping of data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
 * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/1_Scraper)
-
+2. Extracting feature vectors from [Keras Applications](https://keras.io/api/applications/) or [Tensorflow Hub](https://tfhub.dev/s?q=bit)
+* [Notebooks](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/2_Feature_Extractor)
 
 
