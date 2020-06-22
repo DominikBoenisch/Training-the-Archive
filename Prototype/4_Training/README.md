@@ -14,7 +14,7 @@ Image © Dominik Bönisch, Ludwig Forum Aachen
 
 For the evaluation we use the so-called meanrank, which helps us to clarify at which position the (un)trained neuronal network selects the work of art that we have labelled as related (positive) to our anchor according to the triplet loss. Here the rank around 4.5 is considered to be coincidental. All values below this rank indicate a successful training.
 
-* [Notebook Evaluation]()
+* [Notebook Evaluation](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/MeanRankEvaluation.ipynb)
 
 Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,000 annotations)
 ------------ | -------------| -------------| -------------
