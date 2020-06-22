@@ -1,8 +1,10 @@
-### Extracting feature vectors from Keras Applications or Tensorflow Hub
+### Generating a dataset for the training using triplet loss
 
-We will now extract the feature vectors from an existing network to use them later for clustering our scraped data. 
+We will use the triplet loss to label artworks that seem to be connected in every possible way (e.g. color, style, iconic content, aesthetic…) with the aim of having their embeddings close together in the embedding space and embeddings of artworks with more distant relationships or no connection at all far away. 
 
-* Keras: [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/2_Feature_Extractor/Feature_Extractor_Keras_Applications.ipynb)
-* Tensorflow Hub: [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/2_Feature_Extractor/Feature_Extractor_Tensorflow_hub.ipynb)
+The training should help to incorporate the knowledge of experts such as curators in order to better classify and sort the artworks that will later be clustered. After the training, the clustering should go beyond the mere recognition of image content.
 
-The notebooks were made possible with the help of [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter).
+The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/3_Training_Dataset/TrainingDataGenerator.ipynb) was made possible with the help of Dr. rer. nat. Thomas Rost.
+
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/TrainingDataGenerator_Sample.jpg" alt="Sample TrainingDataGenerator" width="500" height="500">
+Image: Example of an iteration to generate a training data set by selecting an anchor and a positively connected artwork to it. © Dominik Bönisch, Ludwig Forum Aachen.
