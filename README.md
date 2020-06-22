@@ -17,6 +17,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
     * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/1_Scraper)
 2. Extracting feature vectors from [Keras Applications](https://keras.io/api/applications/) or [Tensorflow Hub](https://tfhub.dev/s?q=bit)
     * [Notebooks](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/2_Feature_Extractor)
-3. Generating a dataset for the training with the help of [triplet loss](https://omoindrot.github.io/triplet-loss)
-   * [Notebook]()
+3. Generating a dataset for the training using [triplet loss](https://omoindrot.github.io/triplet-loss)
+   * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/3_Training_Dataset)
+
 
