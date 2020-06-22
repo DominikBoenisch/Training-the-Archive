@@ -18,7 +18,7 @@ For the evaluation we use the so-called meanrank, which helps us to clarify at w
 
 Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,000 annotations)
 ------------ | -------------| -------------| -------------
-[BiT/m-152x4](https://tfhub.dev/google/bit/m-r152x4/1) | 3.79360568383659| 2.0703374777975134| coming soon
+[BiT/m-152x4](https://tfhub.dev/google/bit/m-r152x4/1) | 3.79360568383659| 2.0703374777975134| 2.121
 [InceptionV3](https://keras.io/api/applications/inceptionv3/) | coming soon| coming soon| coming soon
 [Xception](https://keras.io/api/applications/xception/) | coming soon| coming soon| coming soon
 [ResNet152V2](https://keras.io/api/applications/resnet/#resnet152v2-function)| coming soon| coming soon| coming soon
