@@ -5,8 +5,7 @@ We start training a network whose features we have downloaded in advance and whi
 #### Training the neural networks
 
 * [Notebook Training](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/Training_SimilarityNet.ipynb)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/2000_Samples_XceptionNet.png" width="750" height="">
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/3000_Samples_BiT-M.152x4.png" width="750" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/2000_Samples_XceptionNet.png" width="750" height=""><img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/3000_Samples_BiT-M.152x4.png" width="950" height="">
 
 Results of the XceptionNet and BiT-M training (examples)
 
