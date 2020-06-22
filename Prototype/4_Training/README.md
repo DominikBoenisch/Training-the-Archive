@@ -5,8 +5,9 @@ We start training a network whose features we have downloaded in advance and whi
 #### Training the neural networks
 
 * [Notebook Training](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/Training_SimilarityNet.ipynb)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/2000_Samples_XceptionNet.png" width="750" height="">
-Results of the XceptionNet training (example)
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/2000_Samples_XceptionNet.png" width="750" height=""><img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/3000_Samples_BiT-M.152x4.png" width="950" height="">
+
+Results of the XceptionNet and BiT-M training (examples)
 
 Image © Dominik Bönisch, Ludwig Forum Aachen
 
@@ -18,7 +19,7 @@ For the evaluation we use the so-called meanrank, which helps us to clarify at w
 
 Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,000 annotations)
 ------------ | -------------| -------------| -------------
-[BiT/m-152x4](https://tfhub.dev/google/bit/m-r152x4/1) | 3.79360568383659| 2.0703374777975134| 2.121
+[BiT/m-152x4](https://tfhub.dev/google/bit/m-r152x4/1) | 3.79360568383659| 2.0703374777975134| 2.026666666666667
 [InceptionV3](https://keras.io/api/applications/inceptionv3/) | coming soon| coming soon| coming soon
 [Xception](https://keras.io/api/applications/xception/) | coming soon| coming soon| coming soon
 [ResNet152V2](https://keras.io/api/applications/resnet/#resnet152v2-function)| coming soon| coming soon| coming soon
