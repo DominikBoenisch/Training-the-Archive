@@ -6,7 +6,7 @@ The notebooks were made possible with the help of [Dr. rer. nat. Jan Sölter](ht
 
 #### Training
 
-* [Training](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/Training_SimilarityNet.ipynb)
+* [Notebook Training](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/Training_SimilarityNet.ipynb)
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/2000_Samples_XceptionNet.png" width="750" height="">
 Results of the XceptionNet training (example)
 
@@ -16,4 +16,4 @@ Image © Dominik Bönisch, Ludwig Forum Aachen
 
 For the evaluation we use the so-called meanrank, which helps us to clarify at which position the (un)trained neuronal network selects the work of art that we have labelled as related (positive) to our anchor according to the triplet loss. Here the rank around 4.5 is considered to be coincidental. All values below this rank indicate a successful training.
 
-* [Evaluation]()
+* [Notebook Evaluation]()
