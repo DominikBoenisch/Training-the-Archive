@@ -8,4 +8,5 @@ The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/mast
 
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/TrainingDataGenerator_Sample.jpg" alt="Sample TrainingDataGenerator" width="500" height="500">
 Example of an iteration to generate a training data set by selecting an anchor and a positively connected artwork to it. 
+
 Image © Dominik Bönisch, Ludwig Forum Aachen.
