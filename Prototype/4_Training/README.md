@@ -1,8 +1,6 @@
 ### Training of a network with our annotations, which artworks are related and which are not
 
-We start training a network whose features we have downloaded in advance and which we want to implement. We use our annotated data from the [TrainingDataGenerator](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/3_Training_Dataset). As a result we get a *relearned* network which we can evaluate in a second step.
-
-The notebooks were made possible with the help of [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter) and Dr. rer. nat. Thomas Rost.
+We start training a network whose features we have downloaded in advance and which we want to implement. We use our annotated data from the [TrainingDataGenerator](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/3_Training_Dataset). As a result we get a *relearned* network which we can evaluate in a second step. The notebooks were made possible with the help of [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter) and Dr. rer. nat. Thomas Rost.
 
 #### Training
 
