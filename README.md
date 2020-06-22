@@ -19,5 +19,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
     * [Notebooks](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/2_Feature_Extractor)
 3. Generating a dataset for the training using [triplet loss](https://omoindrot.github.io/triplet-loss)
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/3_Training_Dataset)
+4. Training of a network with our annotations, which artworks are related and which are not
+   * [Notebook]()
 
 
