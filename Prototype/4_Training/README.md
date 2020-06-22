@@ -29,4 +29,7 @@ Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,00
 
 To better understand what the meanrank of the neural networks means, we test to what degree we make the same selection of our positive to our labelled anchor when we re-present the annotations. Our own meanrank should not only be as low as possible, but also shows up to which fit we can train the neural networks to the maximum.
 
-* [Notebook SelfMeanRank]()
+* [Notebook SelfMeanRank](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/SelfMeanRank.ipynb)
+
+Example SelfMeanRank by Dominik Bönisch:
+> With 20 re-visited annotations I have a SelfMeanRank of 1.25.
