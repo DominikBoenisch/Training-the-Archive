@@ -33,7 +33,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
 #### 2: Gridplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1500" height="">
 
-#### 3: Nearest Neighbors
+#### 3: Nearest neighbors
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Neighbors_Example.jpg" alt="Cluster Example" width="1500" height="">
 
 #### 4: Walkthrough the latent space
