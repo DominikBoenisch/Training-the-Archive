@@ -27,6 +27,17 @@ The first prototype was developed within the context of the so-called [*AI schoo
    * coming soon
 
 ### Results:
-All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK). 1: [Scatterplot](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png), 2: Gridplot, 3: Nearest Neighbors, 4: Walkthrough the latent space.
+All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
 
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Logos" width="" height="800">
+##### 1: Scatterplot
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="800">
+
+##### 2: Gridplot
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1500" height="">
+
+##### 3: Nearest Neighbors
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Neighbors_Example.jpg" alt="Cluster Example" width="1500" height="">
+
+##### 4: Walkthrough the latent space
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_start.jpg" alt="Walkthrough Example" width="" height="110">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1500" height="">
