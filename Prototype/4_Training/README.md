@@ -6,8 +6,7 @@ We start training a network whose features we have downloaded in advance and whi
 
 * [Notebook Training](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/Training_SimilarityNet.ipynb)
 
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/2000_Samples_XceptionNet.png" width="750" height="">
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/3000_Samples_BiT-M.152x4%20Kopie.png" width="780" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/2000_Samples_XceptionNet.png" width="740" height="">
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/3000_Samples_BiT-M.152x4.png" width="750" height="">
 
 Results of the XceptionNet and BiT-M training (examples);
