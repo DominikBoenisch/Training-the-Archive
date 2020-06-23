@@ -23,6 +23,8 @@ The first prototype was developed within the context of the so-called [*AI schoo
    * [Notebooks](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/4_Training)
 5. Clustering of artworks using different neural networks and visualization of the results
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/5_Clustering_Plot)
+6. Nearest (or even farthest) Neighbors
+   * coming soon
 
 ### Results:
 coming soon
