@@ -27,6 +27,6 @@ The first prototype was developed within the context of the so-called [*AI schoo
    * coming soon
 
 ### Results:
-All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK)
+All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK). 1: Scatterplot, 2: Gridplot, 3: Nearest Neighbors, 4: Walkthrough the latent space.
 
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Logos" width="" height="800">
