@@ -28,7 +28,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
 
 ### Results:
 ##### 1: Scatterplot
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="800">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="700">
 
 ##### 2: Gridplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1500" height="">
