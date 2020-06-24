@@ -33,4 +33,4 @@ To better understand what the meanrank of the neural networks means, we test to 
 * [Notebook SelfMeanRank](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/SelfMeanRank.ipynb)
 
 Example SelfMeanRank by Dominik Bönisch:
-> With 20 re-visited annotations I have a SelfMeanRank of 1.25.
+> With 100 re-visited annotations I have a SelfMeanRank of 1.73.
