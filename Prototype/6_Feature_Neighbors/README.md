@@ -1,3 +1,3 @@
-### Clustering of artworks using different neural networks and visualization of the results
+### Visualisation of nearest (or even farthest) neighbors and walkthroughs the latent space
 
 coming soon
