@@ -4,13 +4,13 @@ We have our [scraped data](https://github.com/DominikBoenisch/Training-the-Archi
 
 #### Visualizations
 
-* Grid (without influences, influenced by PCA or TSNE)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/2000_Samples_XceptionNet.png" width="750" height="">
+* Grid (uninfluenced, influenced by PCA or TSNE)
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/PCA_Grid_Example.png" width="850" height="">
 
 * Scatterplot (influenced by PCA or TSNE)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/3000_Samples_BiT-M.152x4.png" width="750" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/TSNE_Scatter_Example.png" width="850" height="">
 
-* Cluster with *Hierarchical Family Tree* (Main- or Subcluster)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/3000_Samples_BiT-M.152x4.png" width="750" height="">
+* Cluster with *Hierarchical Family Tree* (Dendrogramm Main- or Subcluster)
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Dendrogram_Example.png" width="350" height="">
 
 All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
