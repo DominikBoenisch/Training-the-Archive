@@ -27,6 +27,8 @@ The first prototype was developed within the context of the so-called [*AI schoo
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/6_Feature_Neighbors)
 
 ### Results of the visualization:
+All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
+
 #### Scatterplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="500">
 
@@ -40,7 +42,5 @@ The first prototype was developed within the context of the so-called [*AI schoo
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_start.jpg" alt="Walkthrough Example" width="" height="110">
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1000" height="">
 
-All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
-
 ### Contribute: 
-You have suggestions or feedback. We are very happy about that. Feel free to open an issue or a pull request.
+You have suggestions or feedback. We are very happy about that. Feel free to open an issue or a pull request. Check out our [website](http://ludwigforum.de/museum/forschung/training-the-archive/) for more information.
