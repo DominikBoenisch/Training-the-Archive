@@ -26,7 +26,7 @@ The first prototype was developed within the context of the so-called [*AI schoo
 6. Nearest (or even farthest) neighbors and walk through the latent space
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/6_Feature_Neighbors)
 
-### Results:
+### Results of the visualization:
 #### Scatterplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="500">
 
