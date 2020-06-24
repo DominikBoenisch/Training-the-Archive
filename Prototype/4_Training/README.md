@@ -24,7 +24,7 @@ Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,00
 [Xception](https://keras.io/api/applications/xception/) | 4.38| 3.0456666666666665| 2.829
 [ResNet152V2](https://keras.io/api/applications/resnet/#resnet152v2-function)| 4.561333333333334| 2.9756666666666667| 2.834
 [InceptionResNetV2](https://keras.io/api/applications/inceptionresnetv2/) | 4.456333333333333| 3.166| 3.2676666666666665
-[EfficientNetB7](https://keras.io/api/applications/efficientnet/#efficientnetb7-function) | coming soon| coming soon| coming soon
+[EfficientNetB7](https://keras.io/api/applications/efficientnet/#efficientnetb7-function) | 4.544| coming soon| coming soon
 
 #### Controlling with self meanrank
 
