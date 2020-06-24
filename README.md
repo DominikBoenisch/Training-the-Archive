@@ -27,16 +27,16 @@ The first prototype was developed within the context of the so-called [*AI schoo
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/6_Feature_Neighbors)
 
 ### Results:
-#### 1: Scatterplot
+#### Scatterplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="500">
 
-#### 2: Gridplot
+#### Gridplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1000" height="">
 
-#### 3: Nearest neighbors
+#### Nearest/Farthest neighbors
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Neighbors_Example.jpg" alt="Cluster Example" width="1000" height="">
 
-#### 4: Walkthrough the latent space
+#### Walkthrough the latent space
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_start.jpg" alt="Walkthrough Example" width="" height="110">
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1000" height="">
 
