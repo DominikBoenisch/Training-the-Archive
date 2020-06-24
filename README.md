@@ -41,3 +41,6 @@ The first prototype was developed within the context of the so-called [*AI schoo
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1000" height="">
 
 All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
+
+### Contribute: 
+You have suggestions or feedback. We are very happy about that. Feel free to open an issue or a pull request.
