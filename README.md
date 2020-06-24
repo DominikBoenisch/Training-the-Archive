@@ -24,20 +24,20 @@ The first prototype was developed within the context of the so-called [*AI schoo
 5. Clustering of artworks using different neural networks and visualization of the results
    * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/5_Clustering_Plot)
 6. Nearest (or even farthest) neighbors and walk through the latent space
-   * coming soon
+   * [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/6_Feature_Neighbors)
 
 ### Results:
 #### 1: Scatterplot
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="700">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Cluster_Example3.png" alt="Cluster Example" width="" height="500">
 
 #### 2: Gridplot
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1500" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Grid_Example.png" alt="Cluster Example" width="1000" height="">
 
 #### 3: Nearest neighbors
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Neighbors_Example.jpg" alt="Cluster Example" width="1500" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Neighbors_Example.jpg" alt="Cluster Example" width="1000" height="">
 
 #### 4: Walkthrough the latent space
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_start.jpg" alt="Walkthrough Example" width="" height="110">
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1500" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1000" height="">
 
 All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
