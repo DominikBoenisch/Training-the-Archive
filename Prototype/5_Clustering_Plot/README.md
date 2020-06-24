@@ -8,7 +8,7 @@ We have our [scraped data](https://github.com/DominikBoenisch/Training-the-Archi
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/PCA_Grid_Example.png" width="850" height="">
 
 * Scatterplot (influenced by PCA or TSNE)
-<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/TSNE_Scatter_Example.png" width="850" height="">
+<img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/TSNE_Scatter_Example.png" width="790" height="">
 
 * Cluster with *Hierarchical Family Tree* (Dendrogramm Main- or Subcluster)
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Dendrogram_Example.png" width="350" height="">
