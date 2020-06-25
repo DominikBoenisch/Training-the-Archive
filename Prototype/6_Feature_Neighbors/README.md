@@ -1,6 +1,6 @@
 ### Visualisation of nearest (or even farthest) neighbors and walkthroughs the latent space
 
-We now want to visualize our clusters to get an impression of their relationship to each other and their positioning in the latent space. There are many possibilities of representation. We start with a selection of related images, and movements through the latent space from one image to another.
+We now want to visualize our feature-clusters to get an impression of their relationship to each other and their positioning in the latent space. There are many possibilities of representation. We start with a selection of related images, and movements through the latent space from one image to another.
 
 The [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/6_Feature_Neighbors/Feature_Neighbours.ipynb) was made possible with the help of Dr. rer. nat. Thomas Rost.
 
