@@ -17,7 +17,7 @@ For the evaluation we use the so-called meanrank, which helps us to clarify at w
 
 * [Notebook Evaluation](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/4_Training/MeanRankEvaluation.ipynb)
 
-Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,000 annotations)
+Model / MeanRank | Before Training| Training (2,000 annotations, 300 epochs)| Training (3,000 annotations, 300 epochs)
 ------------ | -------------| -------------| -------------
 [BiT/m-152x4](https://tfhub.dev/google/bit/m-r152x4/1) | 3.79360568383659| 2.0703374777975134| 2.026666666666667
 [InceptionV3](https://keras.io/api/applications/inceptionv3/) | 4.332| 2.929| 2.779
