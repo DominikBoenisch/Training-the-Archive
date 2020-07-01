@@ -26,6 +26,16 @@ Model / MeanRank | Before Training| Training (2,000 annotations)| Training (3,00
 [InceptionResNetV2](https://keras.io/api/applications/inceptionresnetv2/) | 4.456333333333333| 3.166| 3.2676666666666665
 [EfficientNetB7](https://keras.io/api/applications/efficientnet/#efficientnetb7-function) | 4.544| 3.837| 3.6686666666666667
 
+#### Optimization through stacking of feature files
+We can even increase our meanrank if we bring certain features of different models together. For example the combination of our trained BiT/m-152x4 and the trained InceptionV3 features:
+```javascript
+feature_files = [('/…/relearned_BiT-M152x4.npz', None),
+                 ('/…/relearned_Inception.npz', None)]
+                
+*the mean rank is 2.004*
+```
+
+
 #### Controlling with self meanrank
 
 To better understand what the meanrank of the neural networks means, we test to what degree we make the same selection of our positive to our labelled anchor when we re-present the annotations. Our own meanrank should not only be as low as possible, but also shows up to which fit we can train the neural networks to the maximum.
