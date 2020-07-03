@@ -35,10 +35,8 @@ We can even increase our meanrank if we bring certain features of different mode
 feature_files = [('/…/relearned_BiT-M152x4.npz', None),
                  ('/…/relearned_Inception.npz', None)]
 ```
-<p>The mean rank is 2.005333333333333.<sup>1</sup><br>
-The mean rank is 1.896.<sup>2</sup></p>
-
-
+<p>The mean rank is <ins>2.005333333333333</ins>.<sup>1</sup><br>
+The mean rank is <ins>1.896</ins>.<sup>2</sup></p>
 
 #### Controlling with self meanrank
 
