@@ -49,4 +49,4 @@ All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open So
 You have suggestions or feedback? We are very happy about that. Feel free to open an issue or a pull request. You will also find further information on our [website](http://ludwigforum.de/museum/forschung/training-the-archive/) or by reading this [interview](https://www.link-niedersachsen.de/blog/blog_kultur/ki_schueler_boenisch).
 
 ### License:
-This prototype is licensed under the GPL-3.0 License - see the [LICENSE](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/LICENSE) file for detail
+This prototype is licensed under the GPL-3.0 License. See the [LICENSE](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/LICENSE) file for detail.
