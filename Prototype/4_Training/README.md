@@ -26,8 +26,8 @@ Model / MeanRank | Before Training<sup>1</sup>| Training (3,000 annot., 600 epoc
 [InceptionResNetV2](https://keras.io/api/applications/inceptionresnetv2/) | 4.456333333333333| 3.2676666666666665| 3.2
 [EfficientNetB7](https://keras.io/api/applications/efficientnet/#efficientnetb7-function) | 4.544| 3.6686666666666667| 3.784
 
-<p><sup>1</sup> The annotations were those used in the training.<br> 
-<sup>2</sup> 500 annotations were held back and given unseen to the trained models for evaluation.</p>
+<p><sup>1</sup> The annotations were those used in the training<br> 
+<sup>2</sup> 500 annotations were held back and given unseen to the trained models for evaluation</p>
 
 #### Optimization through stacking of feature files
 We can even increase our meanrank if we bring certain features of different models together. For example the combination of our trained BiT/m-152x4 and the trained InceptionV3 features:
