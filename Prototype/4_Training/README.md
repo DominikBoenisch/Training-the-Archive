@@ -8,7 +8,7 @@ We start training a network whose features we have downloaded in advance and whi
 
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/3000_Samples_BiT-M.152x4.png" width="750" height="">
 
-Results of the BiT-M training (example, train. set: 2250 annot., val. set: 750 annot.);
+Results of the BiT-M training (example, train. set: 2,250 annot., val. set: 750 annot.);
 Image © Dominik Bönisch, Ludwig Forum Aachen
 
 #### Evaluating with meanrank
