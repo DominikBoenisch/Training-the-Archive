@@ -42,7 +42,7 @@ All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open So
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_start.jpg" alt="Walkthrough Example" width="" height="110">
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough.png" alt="Walkthrough Example" width="1000" height="">
 
-#### Walkthrough the latent space using a *tube-shaped* scatterplot
+#### Walkthrough the latent space using a *tube-shaped* scatterplot with an arrowed path
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_TubeScatter_Example.png" alt="Walkthrough Tube Example" width="1000" height="">
 
 ### Contribute: 
