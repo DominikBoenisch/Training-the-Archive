@@ -13,7 +13,7 @@ The [Notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/mast
 #### Moving through the latent space using a scatterplot
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_Scatter_Example.png" width="1000" height="">
 
-### Visualization of the path through the latent space using arrows
+#### Visualization of the path through the latent space using arrows
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Scatter_with_Arrows.png" width="1000" height="">
 
 All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open Source Library](https://www.smk.dk/en/article/smk-open/) of the National Gallery of Denmark (SMK).
