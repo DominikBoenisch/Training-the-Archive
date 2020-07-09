@@ -4,4 +4,4 @@ The data is made available by the [National Gallery of Denmark (SMK)](https://ww
 
 For this purpose, all identification numbers of the works of art were read out via the standardized International Image Interoperability Framework (IIIF) interface and then checked for each ID link to see whether an associated thumbnail was available and loaded if necessary (44,154 images). In addition, a query was made as to whether the scraped work is in the public domain or whether it is copyrighted (31,828 images without copyright). This information is intended to help ensure that the image data is handled confidentially from the outset and that no copyrights are violated.
 
-The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/1_Scraper/Scraper.ipynb) was made possible with the help of [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter).
+The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/1_Scraper/Scraper.ipynb) was made possible with the help of [J. Sölter](https://de.linkedin.com/in/jansoelter).
