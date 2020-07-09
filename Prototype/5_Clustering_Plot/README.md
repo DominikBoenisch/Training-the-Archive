@@ -2,7 +2,7 @@
 
 We form clusters from our [scraped data](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/1_Scraper). We can combine the [features](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/2_Feature_Extractor) of different neural networks and reduce the dimensionality of the latent space using Principal Component Analysis (PCA). Finally, we visualize the resulting clusters and experiment with the plots. Does the [training](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/4_Training) according to our [annotations](https://github.com/DominikBoenisch/Training-the-Archive/tree/master/Prototype/3_Training_Dataset) already have an effect on the clusters? 
 
-The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/5_Clustering_Plot/Clustering_with_Plots.ipynb) was made possible with the help of [J. Sölter](https://de.linkedin.com/in/jansoelter) and T. Rost.
+The [notebook](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Prototype/5_Clustering_Plot/Clustering_with_Plots.ipynb) was made possible with the help of [J. Sölter](https://de.linkedin.com/in/jansoelter) and [T. Rost](https://github.com/thalro).
 
 #### Visualizations
 
