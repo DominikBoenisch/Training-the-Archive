@@ -46,7 +46,7 @@ All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open So
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_TubeScatter_Example.png" alt="Walkthrough Tube Example" width="1000" height="">
 
 ### Contribute: 
-You have suggestions or feedback? We are very happy about that. Feel free to open an issue or a pull request. You will also find further information on our [website](http://ludwigforum.de/en/museum/research/training-the-archive-3/) (en) or by reading this [interview](https://www.link-niedersachsen.de/blog/blog_kultur/ki_schueler_boenisch) (de).
+You have suggestions or feedback? We are very happy about that. Feel free to open an issue or a pull request. You will also find further information on our [website](http://ludwigforum.de/en/museum/research/training-the-archive-2/) (en) or by reading this [interview](https://www.link-niedersachsen.de/blog/blog_kultur/ki_schueler_boenisch) (de).
 
 ### License:
 This prototype is licensed under the GPL-3.0 License. See the [license](https://github.com/DominikBoenisch/Training-the-Archive/blob/master/LICENSE) file for detail.
