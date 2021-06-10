@@ -44,7 +44,7 @@ All Images © Dominik Bönisch, Ludwig Forum Aachen using data from the [Open So
 <img src="https://github.com/DominikBoenisch/Training-the-Archive/blob/master/Images/Walkthrough_TubeScatter_Example.png" alt="Walkthrough Tube Example" width="1000" height="">
 
 ### Contribute: 
-You have suggestions or feedback? We are very happy about that. Feel free to open an issue or a pull request. You will also find further information on our [website](http://ludwigforum.de/en/museum/research/training-the-archive-2/) (en) or by reading this [interview](https://www.link-niedersachsen.de/blog/blog_kultur/ki_schueler_boenisch) (de).
+You have suggestions or feedback? We are very happy about that. Feel free to [write us a line](https://trainingthearchive.ludwigforum.de/en/kontakt/).
 
 ### Acknowledgment:
 The first prototype was developed within the context of the so-called [*AI school*](https://www.link-niedersachsen.de/ki_schule) in the [LINK](https://www.link-niedersachsen.de/) programme of the Lower Saxony Foundation in cooperation with the tutors [Dr. rer. nat. Jan Sölter](https://de.linkedin.com/in/jansoelter) and [Dr. rer. nat. Thomas Rost](https://github.com/thalro).
